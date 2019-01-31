@@ -1,0 +1,22 @@
+.hud-background {
+  stroke: none;
+  fill: $w2w-blue;
+  fill-opacity: 0.8;
+}
+
+.hud-foreground {
+  stroke: $w2w-black;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  fill: none;
+}
+
+.hud-lives-heart {
+    fill: $w2w-blue;
+    opacity: .9;
+    stroke: $w2w-black;
+}
+
+#hud-radar-scope-missile-target {
+    fill: $w2w-yellow;
+}
