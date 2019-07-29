@@ -6,11 +6,8 @@
             <h1 class="modal_header">Thank you for playing!</h1>
             <div class="modal_body">
                 <p>
-                    Awesome! You are one step closer to winning a Vuejs t-shirt signed by
-                    <a href="https://evanyou.me" target="_blank" rel="noopener noreferrer">Evan You</a>.<br />
-                    <a href="https://www.way2web.nl/werken-bij-way2web/">Join us</a> at
-                    <a href="https://vuejs.amsterdam" target="_blank" rel="noopener noreferrer">Vuejs Amsterdam</a> to
-                    reach a high score and claim your prize.
+                    Awesome! You are one step closer to winning one of the awesome prizes at the <a href="https://laracon.eu" target="_blank" rel="noopener noreferrer">Laracon</a>.<br />
+                    <a href="https://www.way2web.nl/werken-bij-way2web/">Join us</a> at Laracon EU to reach a high score and claim your prize.
                 </p>
                 <p>
                     Can’t beat the game?
@@ -24,9 +21,9 @@
                 <social-sharing
                     url="https://tunnelvue.way2web.nl"
                     title="TunnelVue"
-                    description="Check out @way2web's TunnelVue and play to win a shirt signed bij Evan You at https://vuejs.amsterdam!"
-                    quote="Check out @way2web's TunnelVue and play to win a shirt signed bij Evan You at https://vuejs.amsterdam!"
-                    hashtags="vuejs,way2web,amsterdam,tunnelvue"
+                    description="Check out @way2web's TunnelVue and play to win one of the awesome prizes at the Laracon!"
+                    quote="Check out @way2web's TunnelVue and play to win one of the awesome prizes at the Laracon!"
+                    hashtags="laracon,way2web,amsterdam,tunnelvue"
                     inline-template
                 >
                     <div>
