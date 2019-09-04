@@ -6,14 +6,13 @@
             <h1 class="modal_header">Thank you for playing!</h1>
             <div class="modal_body">
                 <p>
-                    Awesome! You are one step closer to winning one of the awesome prizes at the <a href="https://laracon.eu" target="_blank" rel="noopener noreferrer">Laracon</a>.<br />
-                    <a href="https://www.way2web.nl/werken-bij-way2web/">Join us</a> at Laracon EU to reach a high score and claim your prize.
+                    Awesome! At Way2Web we are always looking for Laravel/Vue.js specialists to work on our high impact projects. So we're curious to hear if you, or someone you know might like to work with us. You can find out more <a href="https://www.way2web.nl/werken-bij-way2web/" target="_blank" rel="noopener noreferrer">about us</a> or contact us at <a href="mailto: leeronskennen@way2web.nl">leeronskennen@way2web.nl</a>.
                 </p>
                 <p>
-                    Can’t beat the game?
+                    By the way, if can’t beat the game, you can always
                     <a href="https://github.com/Way2Web/tunnelvue" target="_blank" rel="noopener noreferrer">
-                        Become a game changer!
-                    </a>
+                        become a game changer
+                    </a>!
                 </p>
                 <p>
                     Your score: <strong>{{ score }}</strong>
@@ -21,9 +20,9 @@
                 <social-sharing
                     url="https://tunnelvue.way2web.nl"
                     title="TunnelVue"
-                    description="Check out @way2web's TunnelVue and play to win one of the awesome prizes at the Laracon!"
-                    quote="Check out @way2web's TunnelVue and play to win one of the awesome prizes at the Laracon!"
-                    hashtags="laracon,way2web,amsterdam,tunnelvue"
+                    description="Check out @way2web's TunnelVue!"
+                    quote="Check out @way2web's TunnelVue!"
+                    hashtags="laravel,vuejs,way2web,tunnelvue"
                     inline-template
                 >
                     <div>
