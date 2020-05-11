@@ -16,15 +16,15 @@ echo "====== Running linters ======="
 if [ -f package.json ]; then
     find . -maxdepth 1 -name package.json | grep package > /dev/null 2>&1
     if [ $? == 0 ]; then
-        echo "= Yarn ="
-        yarn install
+        echo "= NPM ="
+        npm ci
         if [ $? != 0 ]; then
             exit 1
         fi
     fi
 
     echo "= Lint ="
-    yarn run lint
+    npm run lint
     if [ $? != 0 ]; then
         exit 1
     fi

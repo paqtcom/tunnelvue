@@ -16,8 +16,8 @@ echo "====== Running build hook ======="
 if [ -f package.json ]; then
     find . -maxdepth 1 -name package.json | grep package > /dev/null 2>&1
     if [ $? == 0 ]; then
-        echo "= Yarn ="
-        yarn install
+        echo "= NPM ="
+        npm ci
         if [ $? != 0 ]; then
             exit 1
         fi
@@ -25,10 +25,10 @@ if [ -f package.json ]; then
 
     if [ $2 ]; then
         echo "= Build dev ="
-        yarn run build-dev
+        npm run build-dev
     else
         echo "= Build production ="
-        yarn run build
+        npm run build
     fi
     if [ $? != 0 ]; then
         exit 1
