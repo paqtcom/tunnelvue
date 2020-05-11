@@ -21,7 +21,9 @@
                         r="0.04"
                     />
                     <circle class="hud-foreground" stroke-width="0.04" cx="0.5" cy="0.5" r="0.5" />
-                    <clipPath id="hud-radar-scope-clip-path"><circle cx="0.5" cy="0.5" r="0.5" /></clipPath>
+                    <clipPath id="hud-radar-scope-clip-path">
+                        <circle cx="0.5" cy="0.5" r="0.5" />
+                    </clipPath>
                 </g>
                 <!-- Speedometer-->
                 <g>
@@ -40,7 +42,9 @@
 
                         <rect class="hud-foreground" stroke-width="0.02" width="1.0" height="0.122" />
 
-                        <clipPath id="hud-speedometer-bar-clip-path"><rect width="0.5" height="0.122" /></clipPath>
+                        <clipPath id="hud-speedometer-bar-clip-path">
+                            <rect width="0.5" height="0.122" />
+                        </clipPath>
                     </g>
 
                     <text id="hud-speedometer-label-text" transform="translate(1.2, 0.4), scale(0.012,-0.012)">
@@ -49,7 +53,9 @@
 
                     <text id="hud-speedometer-speed-text" transform="translate(3, 0.1), scale(0.02,-0.02)" />
 
-                    <clipPath id="speedometer-clip-path"><rect x="1.1" y="0.1" width="1.8" height="0.22" /></clipPath>
+                    <clipPath id="speedometer-clip-path">
+                        <rect x="1.1" y="0.1" width="1.8" height="0.22" />
+                    </clipPath>
                 </g>
 
                 <!-- Lives Indicator ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->

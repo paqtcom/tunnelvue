@@ -53,7 +53,9 @@ export default {
             speed: 0
         };
     },
-
+    /**
+     * Check status on mount.
+     */
     mounted() {
         MG.pause = true;
         MG.init();
@@ -80,6 +82,8 @@ export default {
     watch: {
         /**
          * Watch for state changes in the game.
+         *
+         * @param {object} state
          */
         state(state) {
             this.setScore({
