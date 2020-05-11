@@ -6,13 +6,19 @@
             <h1 class="modal_header">Thank you for playing!</h1>
             <div class="modal_body">
                 <p>
-                    Awesome! At Way2Web we are always looking for Laravel/Vue.js specialists to work on our high impact projects. So we're curious to hear if you, or someone you know might like to work with us. You can find out more <a href="https://www.way2web.nl/werken-bij-way2web/" target="_blank" rel="noopener noreferrer">about us</a> or contact us at <a href="mailto: leeronskennen@way2web.nl">leeronskennen@way2web.nl</a>.
+                    Awesome! At Way2Web we are always looking for Laravel/Vue.js specialists to work on our high impact
+                    projects. So we're curious to hear if you, or someone you know might like to work with us. You can
+                    find out more
+                    <a href="https://www.way2web.nl/werken-bij-way2web/" target="_blank" rel="noopener noreferrer">
+                        about us
+                    </a>
+                    or contact us at <a href="mailto: leeronskennen@way2web.nl">leeronskennen@way2web.nl</a>.
                 </p>
                 <p>
                     By the way, if can’t beat the game, you can always
                     <a href="https://github.com/Way2Web/tunnelvue" target="_blank" rel="noopener noreferrer">
-                        become a game changer
-                    </a>!
+                        become a game changer </a
+                    >!
                 </p>
                 <p>
                     Your score: <strong>{{ score }}</strong>

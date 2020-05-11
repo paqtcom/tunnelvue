@@ -1,5 +1,7 @@
 <template>
-    <div class="home"><GameMain /></div>
+    <div class="home">
+        <GameMain />
+    </div>
 </template>
 
 <script>
