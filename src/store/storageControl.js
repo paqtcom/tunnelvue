@@ -9,6 +9,7 @@ class StorageControl {
      */
     static check(version) {
         let sessionVersion = sessionStorage.getItem('appVersion');
+
         let localVersion = localStorage.getItem('appVersion');
 
         if (sessionVersion && sessionVersion != version) {
