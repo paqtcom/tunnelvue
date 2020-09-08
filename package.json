@@ -24,7 +24,7 @@
     "register-service-worker": "^1.5.2",
     "serialize-javascript": "^4.0.0",
     "set-value": "^2.0.1",
-    "vue": "^2.5.22",
+    "vue": "^2.6.12",
     "vue-router": "^3.4.3",
     "vue-social-sharing": "^2.3.3",
     "vuex": "^3.5.1",
@@ -42,7 +42,7 @@
     "lint-staged": "^10.2.11",
     "node-sass": "^4.11.0",
     "sass-loader": "^9.0.2",
-    "vue-template-compiler": "^2.5.22"
+    "vue-template-compiler": "^2.6.12"
   },
   "gitHooks": {
     "pre-commit": "lint-staged"
