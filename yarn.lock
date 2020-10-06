@@ -861,7 +861,7 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@fortawesome/fontawesome-common-types@^0.2.30", "@fortawesome/fontawesome-common-types@^0.2.31", "@fortawesome/fontawesome-common-types@^0.2.32":
+"@fortawesome/fontawesome-common-types@^0.2.31", "@fortawesome/fontawesome-common-types@^0.2.32":
   version "0.2.32"
   resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-0.2.32.tgz#3436795d5684f22742989bfa08f46f50f516f259"
   integrity sha512-ux2EDjKMpcdHBVLi/eWZynnPxs0BtFVXJkgHIxXRl+9ZFaHPvYamAfCzeeQFqHRjuJtX90wVnMRaMQAAlctz3w==
@@ -8997,10 +8997,10 @@ vue-router@^3.4.5:
   resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-3.4.5.tgz#d396ec037b35931bdd1e9b7edd86f9788dc15175"
   integrity sha512-ioRY5QyDpXM9TDjOX6hX79gtaMXSVDDzSlbIlyAmbHNteIL81WIVB2e+jbzV23vzxtoV0krdS2XHm+GxFg+Nxg==
 
-vue-social-sharing@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/vue-social-sharing/-/vue-social-sharing-3.0.0.tgz#e87d346e09360403830f5166119b16afc1d0f40a"
-  integrity sha512-lUIzS7wqLnxRaKCRyyfyWQcUlGFEZkT2aIdcndv3hApUA4JOV95sk/ubk9vNwVrY1bpqxnltaZGxsl9ikMlNFQ==
+vue-social-sharing@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/vue-social-sharing/-/vue-social-sharing-3.0.1.tgz#aac603a21bc2eb971cd6d87b0555340f6b97323c"
+  integrity sha512-MKosIHdRn92Ncy3LO4sAHHK11x8UoD6jsTJlHBtdsZ4YnIELorWVr3JWKcqKd1e9yaz1Xf83g5kZ8Uupsi/xHw==
 
 vue-style-loader@^4.1.0, vue-style-loader@^4.1.2:
   version "4.1.2"
