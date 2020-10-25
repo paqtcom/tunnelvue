@@ -9039,10 +9039,10 @@ vue-router@^3.4.7:
   resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-3.4.7.tgz#bf189bafd16f4e4ef783c4a6250a3090f2c1fa1b"
   integrity sha512-CbHXue5BLrDivOk5O4eZ0WT4Yj8XwdXa4kCnsEIOzYUPF/07ZukayA2jGxDCJxLc9SgVQX9QX0OuGOwGlVB4Qg==
 
-vue-social-sharing@^3.0.2:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/vue-social-sharing/-/vue-social-sharing-3.0.2.tgz#d2617120bea806523e2258542d61c081266e5e9f"
-  integrity sha512-p2MPZ/DnMOI5SC2okiLeRc6zgdvQuuRWE/bxrxr6WXyrh7Vaj2CwZKyVZgP3kLwMD2zJOusbMwfq0uPjD4g0mQ==
+vue-social-sharing@^3.0.3:
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/vue-social-sharing/-/vue-social-sharing-3.0.3.tgz#06fe22d4f1de70e4515c5447b92de07b0a0e41b0"
+  integrity sha512-7MbbVhhzMYM+mPGJjKc+L2EYudCDqavKP2nJTZeV/KQfJqbKsnK6e0nzSd/8Ir4JSQ+AQoY9D9yP0t4gXV0FgA==
 
 vue-style-loader@^4.1.0, vue-style-loader@^4.1.2:
   version "4.1.2"
