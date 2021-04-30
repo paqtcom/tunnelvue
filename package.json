@@ -23,7 +23,7 @@
     "eslint-plugin-prettier": "^3.3.1",
     "register-service-worker": "^1.7.2",
     "serialize-javascript": "^5.0.1",
-    "set-value": "^2.0.1",
+    "set-value": "^4.0.0",
     "vue": "^2.6.12",
     "vue-router": "^3.5.1",
     "vue-social-sharing": "^3.0.7",
