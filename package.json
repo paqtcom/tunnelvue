@@ -37,7 +37,7 @@
     "@vue/cli-service": "^4.5.13",
     "@vue/eslint-config-prettier": "^6.0.0",
     "babel-eslint": "^10.0.1",
-    "eslint": "^7.25.0",
+    "eslint": "^7.28.0",
     "eslint-plugin-vue": "^7.9.0",
     "lint-staged": "^10.5.4",
     "node-sass": "^6.0.0",
