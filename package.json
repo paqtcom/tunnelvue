@@ -26,7 +26,7 @@
     "set-value": "^4.0.0",
     "vue": "^2.6.12",
     "vue-router": "^3.5.1",
-    "vue-social-sharing": "^3.0.7",
+    "vue-social-sharing": "^3.0.8",
     "vuex": "^3.6.2",
     "vuex-persistedstate": "^3.2.0"
   },
