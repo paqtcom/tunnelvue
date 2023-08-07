@@ -19,7 +19,7 @@
     "@fortawesome/free-brands-svg-icons": "^6.0.0",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
     "@fortawesome/vue-fontawesome": "^2.0.6",
-    "@sentry/browser": "^6.17.5",
+    "@sentry/browser": "^7.61.1",
     "eslint-plugin-prettier": "^4.0.0",
     "register-service-worker": "^1.7.2",
     "serialize-javascript": "^6.0.0",
